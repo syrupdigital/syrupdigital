@@ -30,9 +30,9 @@ Creative technologists pushing the boundaries of digital experiences
 
 📫 Connect With Us
 
-Website: syrup.digital
+Website: https://syrup.digital
 Email: hello@syrup.digital
-LinkedIn: Syrup Digital
+LinkedIn: SyrupDigital
 Instagram: @syrupdigital
 
 ⚡ Fun Fact
